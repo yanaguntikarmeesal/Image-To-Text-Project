@@ -1,5 +1,20 @@
 # 📄 OCR Text Extractor using EasyOCR
 
+
+
+**Developed by:** **Yanaguntikar Meesal**
+
+
+**📧 Email:** **[yanaguntikarm@gmail.com](mailto:yanaguntikarm@gmail.com)**
+
+
+**🌐 Live Project:** [OCR Text Extractor using EasyOCR](https://image-to-text-project-myvsw3tfqgsxxgzquzrczl.streamlit.app/)
+
+
+
+
+
+
 ## 📝 Project Overview
 
 **OCR Text Extractor** is a computer vision project built using Python, Streamlit, and EasyOCR. It extracts machine-readable text from images using Optical Character Recognition (OCR).
